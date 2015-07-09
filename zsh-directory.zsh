@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 #
-# {{{ File header ##############################################################
+# {{{ File header. #############################################################
 #                                                                              #
 # File informations:                                                           #
 # - Name:    zsh-directory.zsh                                                 #
@@ -9,7 +9,7 @@
 #   - Alessandro Molari <molari.alessandro@gmail.com> (alem0lars)              #
 #                                                                              #
 # Project informations:                                                        #
-#   - Homepage:        https://github.com/alem0lars/configs                    #
+#   - Homepage:        https://github.com/alem0lars/zsh-directory.             #
 #   - Getting started: see README.md in the project root folder                #
 #                                                                              #
 # License: Apache v2.0 (see below)                                             #
