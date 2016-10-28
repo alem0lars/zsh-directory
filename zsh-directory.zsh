@@ -62,6 +62,7 @@ unsetopt CLOBBER
 # Change initial directory if provided.
 if [[ ! -z "${AUTOCD}" ]]; then
   cd "${AUTOCD}"
+  unset AUTOCD
 fi
 
 
