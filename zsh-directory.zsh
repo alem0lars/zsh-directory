@@ -59,5 +59,10 @@ unsetopt CLOBBER
 
 # }}}
 
+# Change initial directory if provided.
+if [[ ! -z "${AUTOCD}" ]]; then
+  cd "${AUTOCD}"
+fi
+
 
 # vim: set filetype=zsh :
